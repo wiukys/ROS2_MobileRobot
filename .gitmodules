@@ -1,6 +1,0 @@
-[submodule "src/ga_pkg"]
-	path = src/ga_pkg
-	url = https://github.com/wiukys/ROS2_GA.git
-[submodule "src/ttvn_pkg"]
-	path = src/ttvn_pkg
-	url = https://github.com/wiukys/ROS2_MobileRobot.git
